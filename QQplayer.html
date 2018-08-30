@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>QQplayer</title>
+	<meta charset="utf-8">
+	<!--[if lt IE 9]>
+	<script src="http://cdn.static.runoob.com/libs/html5shiv/3.7/html5shiv.min.js"></script>
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="css/jquery.mCustomScrollbar.css">
+	<link rel="stylesheet" type="text/css" href="css/QQplayer.css">
+	<script src="js/jquery-1.12.4.js"></script>
+	<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+	<script src="js/player.js"></script>
+	<script src="js/process.js"></script>
+	<script src="js/lyric.js"></script>
+	<script src="js/QQplayer.js"></script>	
+	
+</head>
+<body>
+	<header>
+		<h1 class="logo">QQ音乐</h1>
+		<div class="logops">
+			<a href="javascript:;" class="login">登录</a>
+			<span>/</span>
+			<a href="javascript:;" class="setting">设置</a>
+		</div>
+	</header>
+	<div class="content">
+		<div class="content_wp">
+			<div class="content_left">
+				<div class="list_option">
+					<ul>
+						<li>
+							<span>
+								<i></i>
+								<a href="javascript:;">收藏</a>
+							</span>
+						</li>
+						<li>
+							<span>
+								<i></i>
+								<a href="javascript:;">添加到</a>
+							</span>
+						</li>
+						<li>
+							<span>
+								<i></i>
+								<a href="javascript:;">下载</a>
+							</span>
+						</li>
+						<li>
+							<span>
+								<i></i>
+								<a href="javascript:;">删除</a>
+							</span>
+						</li>
+						<li>
+							<span>
+								<i></i>
+								<a href="javascript:;">清空列表</a>
+							</span>
+						</li>
+					</ul>
+				</div>
+				<div class="list" data-mcs-theme="dark">
+					<ul>
+						<li>
+							<div class="checkbox"><i></i></div>
+							<div class="list_number"></div>
+							<div class="list_title">歌曲</div>
+							<div class="list_singer">歌手</div>
+							<div class="list_length">时长</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="content_right">
+				<div class="singer_img">
+					<a href="javascript:;">
+						<img src="img/c6.jpg" style="width: 176px">
+					</a>
+				</div>
+				<div class="singer_info">
+					<span class="musicName">歌曲名称: <a href="javascript:;">纸短情长</a></span>
+					<br>
+					<span class="musicSinger">歌手: <a href="javascript:;">烟把儿</a></span>
+					<br>
+					<span class="musicAlbum">专辑名: <a href="javascript:;">烟把儿</a></span>
+				</div>
+				<div class="singer_lyrics">
+					<ul>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer>
+		<div class="footer_wp">
+			<a class="play play_pre" href="javascript:;" title="上一首"></a>
+			<a class="play play2 playMusic" href="javascript:;" title="播放/暂停"></a>
+			<a class="play play_next" href="javascript:;" title="下一首"></a>
+			<div class="processBar">
+				<p class="processName">歌曲名 - 歌手</p>
+				<p class="processTime">
+					<span>00:00</span> 
+					<span> / 03:23</span>
+				</p>
+				<div class="process">
+					<div class="process_line"></div>
+					<div class="process_dot"></div>
+				</div>
+			</div>
+			<a class="opations model1" href="javascript:;" title="播放模式"></a>
+			<a class="opations like" href="javascript:;" title="喜欢"></a>
+			<a class="opations" href="javascript:;" title="下载"></a>
+			<a class="change" href="javascript:;" title="转换">
+				<i></i>
+				<p>OFF</p>
+			</a>
+			<div class="volume">
+				<i class="volume_icon"></i>
+				<div class="volume_process">
+					<div class="volume_line"></div>
+					<div class="volume_dot"></div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<audio src=""></audio>
+</body>
+</html>

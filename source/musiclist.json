@@ -1,0 +1,38 @@
+[
+	{
+		"name":"目不转睛 (Live)",
+		"singer":"王以太",
+		"album":"中国新说唱 第七期",
+		"time":"02:42",
+		"link_url":"./source/目不转睛 (Live).mp3",
+		"cover":"./source/目不转睛.jpg",
+		"link_lrc":"./source/目不转睛 (Live).txt"
+	},
+	{
+		"name":"两个西柚",
+		"singer":"倪子鱼",
+		"album":"两个西柚(to see you)",
+		"time":"03:44",
+		"link_url":"./source/两个西柚.mp3",
+		"cover":"./source/两个西柚.jpg",
+		"link_lrc":"./source/两个西柚.txt"
+	},
+	{
+		"name":"光るなら (若能绽放光芒) (parade ver.)",
+		"singer":"Goose house (グースハウス)",
+		"album":"J-アニソン神曲祭り-パレード- [DJ和 in No.1胸熱MIX]",
+		"time":"01:21",
+		"link_url":"./source/光るなら (若能绽放光芒) (parade ver.).mp3",
+		"cover":"./source/光るなら (若能绽放光芒) (parade ver.).jpg",
+		"link_lrc":"./source/光るなら (若能绽放光芒) (parade ver.).txt"
+	},
+	{
+		"name":"拾墙",
+		"singer":"Jam",
+		"album":"",
+		"time":"03:30",
+		"link_url":"./source/拾墙.mp3",
+		"cover":"./source/拾墙.jpg",
+		"link_lrc":"./source/拾墙.txt"
+	}
+]
