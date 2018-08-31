@@ -34,5 +34,122 @@
 		"link_url":"./source/拾墙.mp3",
 		"cover":"./source/拾墙.jpg",
 		"link_lrc":"./source/拾墙.txt"
+	},
+	{
+		"name":"It's You",
+		"singer":"蔡徐坤",
+		"album":"1",
+		"time":"03:45",
+		"link_url":"./source/It's You.mp3",
+		"cover":"./source/It's You.jpg",
+		"link_lrc":"./source/It's You.txt"
+	},
+	{
+		"name":"Love Songs on the Radio",
+		"singer":"Mojave 3",
+		"album":"Ask Me Tomorrow",
+		"time":"05:48",
+		"link_url":"./source/Love Songs on the Radio.mp3",
+		"cover":"./source/Love Songs on the Radio.jpg",
+		"link_lrc":"./source/Love Songs on the Radio.txt"
+	},
+	{
+		"name":"X's",
+		"singer":"GRX / CMC$ / Icona Pop",
+		"album":"X's",
+		"time":"03:34",
+		"link_url":"./source/X's.mp3",
+		"cover":"./source/X's.jpg",
+		"link_lrc":"./source/X's.txt"
+	},
+	{
+		"name":"泊雁",
+		"singer":"清弄",
+		"album":"",
+		"time":"03:48",
+		"link_url":"./source/泊雁.mp3",
+		"cover":"./source/泊雁.jpg",
+		"link_lrc":"./source/泊雁.txt"
+	},
+	{
+		"name":"沧海映雪歌",
+		"singer":"妖言君",
+		"album":"",
+		"time":"02:21",
+		"link_url":"./source/沧海映雪歌.mp3",
+		"cover":"./source/沧海映雪歌.jpg",
+		"link_lrc":"./source/沧海映雪歌.txt"
+	},
+	{
+		"name":"风在焰火中飞行",
+		"singer":"李沁枬",
+		"album":"风在焰火中飞行",
+		"time":"03:26",
+		"link_url":"./source/风在焰火中飞行.mp3",
+		"cover":"./source/风在焰火中飞行.jpg",
+		"link_lrc":"./source/风在焰火中飞行.txt"
+	},
+	{
+		"name":"涉川",
+		"singer":"不才",
+		"album":"",
+		"time":"03:41",
+		"link_url":"./source/涉川.mp3",
+		"cover":"./source/涉川.jpg",
+		"link_lrc":"./source/涉川.txt"
+	},
+	{
+		"name":"听雪",
+		"singer":"CRITTY",
+		"album":"",
+		"time":"04:38",
+		"link_url":"./source/听雪.mp3",
+		"cover":"./source/听雪.jpg",
+		"link_lrc":"./source/听雪.txt"
+	},
+	{
+		"name":"线形关系",
+		"singer":"邹施如",
+		"album":"线形关系",
+		"time":"04:40",
+		"link_url":"./source/线形关系.mp3",
+		"cover":"./source/线形关系.jpg",
+		"link_lrc":"./source/线形关系.txt"
+	},
+	{
+		"name":"小小的我",
+		"singer":"路垚",
+		"album":"你会",
+		"time":"03:50",
+		"link_url":"./source/小小的我.mp3",
+		"cover":"./source/小小的我.jpg",
+		"link_lrc":"./source/小小的我.txt"
+	},
+	{
+		"name":"嫣然记",
+		"singer":"元乔 / 鹿马",
+		"album":"嫣然记",
+		"time":"03:46",
+		"link_url":"./source/嫣然记.mp3",
+		"cover":"./source/嫣然记.jpg",
+		"link_lrc":"./source/嫣然记.txt"
+	},
+	{
+		"name":"夜里",
+		"singer":"何小河",
+		"album":"花非花",
+		"time":"04:01",
+		"link_url":"./source/夜里.mp3",
+		"cover":"./source/夜里.jpg",
+		"link_lrc":"./source/夜里.txt"
+	},
+	{
+		"name":"一只温柔美丽可爱迷人的大白猫",
+		"singer":"一只白",
+		"album":"一只温柔美丽可爱迷人的大白猫",
+		"time":"03:06",
+		"link_url":"./source/一只温柔美丽可爱迷人的大白猫.mp3",
+		"cover":"./source/一只温柔美丽可爱迷人的大白猫.jpg",
+		"link_lrc":"./source/一只温柔美丽可爱迷人的大白猫.txt"
 	}
 ]
